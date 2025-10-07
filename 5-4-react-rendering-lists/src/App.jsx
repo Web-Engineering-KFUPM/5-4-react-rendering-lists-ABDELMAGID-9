@@ -114,7 +114,7 @@ import "./index.css";
          - if d === 1 → "1 day remaining"
          - else → `${d} days remaining`
        - Return a `<span className="badge">` element.
-       - Add class `"danger"` if overdue, `"warn"` if due today.
+       - Add class `"danger"` if overdue, `"warn"` if due today`.
 
    💡 HINT:
    All required functions and HTML structure already exist.
